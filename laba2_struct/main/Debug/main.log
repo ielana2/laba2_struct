@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Visual Studio\laba2_struct\main\main.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Visual Studio\laba2_struct\main\main.cpp(40,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Visual Studio\laba2_struct\main\main.cpp(14,11): warning C4101: counting_sort_array: неиспользованная локальная переменная
+D:\Visual Studio\laba2_struct\main\main.cpp(12,9): warning C4101: key: неиспользованная локальная переменная
+  main.vcxproj -> D:\Visual Studio\laba2_struct\Debug\main.exe
